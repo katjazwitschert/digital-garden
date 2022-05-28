@@ -1,22 +1,26 @@
 ---
 layout: page
-title: Home
-id: home
+title: Digital Garden
+id: index
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my digital garden! 🌱 / Willkommen in meinem digitalen Garten. 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  My name is <a href="https://www.katjaevertz.de">Katja Evertz</a>. I am a digital strategist and communications consultant. This digital garden is an experiment, an archive, and a map of my interests, notes, and ideas.<br><br>
+  ----------<br><br>
+  Mein Name ist <a href="https://www.katjaevertz.de">Katja Evertz</a>. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Meine Beete
+[[Kommunikation]]
+[[Digitalisierung]]
+[[Tools]]
+[[Bücher]]
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+## Zuletzt ausgesät
+[[Über meinen digitalen Garten]]
+[[About my digital garden]]
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+
