@@ -14,13 +14,13 @@ permalink: /
 </p>
 
 ## Meine Beete
-[[Kommunikation]]
-[[Digitalisierung]]
-[[Tools]]
-[[Bücher]]
+- [[Kommunikation]]
+- [[Digitalisierung]]
+- [[Tools]]
+- [[Bücher]]
 
 ## Zuletzt ausgesät
-[[Über meinen digitalen Garten]]
-[[About my digital garden]]
+- [[Über meinen digitalen Garten]]
+- [[About my digital garden]]
 
 
